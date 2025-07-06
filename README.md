@@ -1,2 +1,4 @@
 # microfrontend
-For container, marketing, auth & dashboard project, run 'npm install' and then run 'npm run start'
+For each project container, marketing, auth & dashboard  
+1. Run 'npm install'
+2. Run 'npm run start'
